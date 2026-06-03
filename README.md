@@ -102,11 +102,11 @@ I'm a **Senior Data Engineer** based in the 🇬🇧 **United Kingdom**, passion
 
 ---
 
+## 📊 Contribution Activity
+
 <div align="center">
 
-### 🐍 Contribution Graph
-
-![Snake animation](https://github.com/Kornelius99/Kornelius99/blob/output/github-contribution-grid-snake-dark.svg)
+[![Kornelius99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kornelius99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -117,5 +117,7 @@ I'm a **Senior Data Engineer** based in the 🇬🇧 **United Kingdom**, passion
 *"Data is the new oil — I help refine it."* 🚀
 
 **Thanks for visiting! Drop a ⭐ if you find my work useful.**
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer)
 
 </div>
