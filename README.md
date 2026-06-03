@@ -59,14 +59,17 @@ I'm a **Senior Data Engineer** based in the 🇬🇧 **United Kingdom**, passion
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kornelius99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kornelius99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+### 🗓️ At a Glance
 
-</div>
+![Public Repos](https://img.shields.io/badge/Public_Repos-20-0EA5E9?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/Kornelius99?label=Followers&style=for-the-badge&color=0EA5E9&logo=github)
+![Top Language](https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Data_Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kornelius99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![Azure](https://img.shields.io/badge/Cloud-Azure_%26_AWS-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Commits](https://img.shields.io/badge/2026_Contributions-86-brightgreen?style=for-the-badge&logo=github)
+![Experience](https://img.shields.io/badge/Experience-Senior_Level-gold?style=for-the-badge&logo=databricks&logoColor=white)
+![Location](https://img.shields.io/badge/Based_In-United_Kingdom-012169?style=for-the-badge&logo=gov.uk&logoColor=white)
 
 </div>
 
