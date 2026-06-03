@@ -59,14 +59,14 @@ I'm a **Senior Data Engineer** based in the 🇬🇧 **United Kingdom**, passion
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kornelius99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kornelius99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kornelius99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kornelius99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kornelius99&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kornelius99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
