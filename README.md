@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kornelius — Senior Data Engineer
+# 👋 Hi, I'm Kornelius — Senior Data Engineer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Senior+Data+Engineer+%7C+Azure+%7C+AWS;Databricks+%7C+PySpark+%7C+SQL;Building+Scalable+Data+Pipelines;Turning+Raw+Data+into+Business+Value)](https://git.io/typing-svg)
 
